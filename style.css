@@ -40,12 +40,11 @@ header{
 .slider-1 .slider{
     width: 300px;
     height: 300px;
-    background: red;
     transform-style: preserve-3d;
     transform-origin: center;
     position: relative;
     transform: rotateX(-6deg) rotateY(0deg);
-	transition:0.5s;
+    transition:0.5s;
 }
 .slider-1 .slider img{
     width: 100%;
